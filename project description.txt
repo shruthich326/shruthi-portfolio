@@ -1,0 +1,1 @@
+I created a personal portfolio website using HTML5 and CSS3. The website includes my introduction, skills, projects, certifications, and contact details. I used a clean and professional design with a purple and white colour theme. The website is responsive and designed to work on both desktop and mobile screens. This project helped me improve my HTML and CSS skills.
